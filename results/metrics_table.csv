@@ -1,0 +1,5 @@
+Model,Train R2,Test R2,Train RMSE,Test RMSE,Train MAE,Test MAE
+Decision Tree,0.9500,0.8891,46.80,69.17,28.22,40.37
+Random Forest,0.9916,0.9335,19.23,53.57,11.43,30.93
+SVM,0.5791,0.5538,135.81,138.77,81.41,85.19
+Gradient Boosting,0.8901,0.8731,69.39,74.02,48.90,52.33
